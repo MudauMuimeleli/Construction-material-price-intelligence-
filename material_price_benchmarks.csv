@@ -1,0 +1,7 @@
+material_id,material_name,category,standard_unit,supplier_count,min_price,avg_price,median_price,max_price,price_spread,spread_pct_of_min
+AGG030,Concrete aggregate 19mm,Aggregates,m3,3,825.0,861.6666666666666,850.0,910.0,85.0,10.3
+CEM001,Cement 32.5N 50kg,Cement,bag,3,108.0,113.16666666666667,112.5,119.0,11.0,10.19
+ELC050,Electrical cable 2.5mm,Electrical,m,3,8.2,8.6,8.5,9.1,0.9000000000000004,10.98
+PLB040,PVC pipe 110mm,Plumbing,each,3,139.5,145.5,145.0,152.0,12.5,8.96
+STL010,Rebar Y12,Steel,kg,3,18.9,19.3,19.5,19.5,0.6000000000000014,3.17
+TIM020,Pine timber 38x114,Timber,m,3,40.75,42.75,42.0,45.5,4.75,11.66

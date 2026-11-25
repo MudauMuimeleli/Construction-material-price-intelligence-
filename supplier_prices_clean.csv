@@ -1,0 +1,19 @@
+material_id,material_name,category,supplier,city,currency,price,unit,pack_size_kg,quote_date,unit_original,unit_standard,price_per_standard_unit,standard_unit
+CEM001,Cement 32.5N 50kg,Cement,BuildMart Durban,Durban,R,112.5,bag,50,2026-10-01,bag,bag,112.5,bag
+CEM001,Cement 32.5N 50kg,Cement,KZN Hardware,Pietermaritzburg,R,119.0,50 kg bag,50,2026-10-03,50 kg bag,bag,119.0,bag
+CEM001,Cement 32.5N 50kg,Cement,Coast Builders,Durban,R,108.0,bag,50,2026-10-05,bag,bag,108.0,bag
+STL010,Rebar Y12,Steel,BuildMart Durban,Durban,R,18.9,kg,1,2026-10-02,kg,kg,18.9,kg
+STL010,Rebar Y12,Steel,KZN Hardware,Pietermaritzburg,R,19.5,ton,1000,2026-10-04,ton,kg,19.5,kg
+STL010,Rebar Y12,Steel,Coast Builders,Durban,R,19.5,kg,1,2026-10-06,kg,kg,19.5,kg
+TIM020,Pine timber 38x114,Timber,BuildMart Durban,Durban,R,42.0,linear metre,1,2026-10-02,linear metre,m,42.0,m
+TIM020,Pine timber 38x114,Timber,KZN Hardware,Pietermaritzburg,R,45.5,lm,1,2026-10-04,lm,m,45.5,m
+TIM020,Pine timber 38x114,Timber,Coast Builders,Durban,R,40.75,linear m,1,2026-10-06,linear m,m,40.75,m
+AGG030,Concrete aggregate 19mm,Aggregates,BuildMart Durban,Durban,R,850.0,m3,1,2026-10-01,m3,m3,850.0,m3
+AGG030,Concrete aggregate 19mm,Aggregates,KZN Hardware,Pietermaritzburg,R,910.0,cubic metre,1,2026-10-03,cubic metre,m3,910.0,m3
+AGG030,Concrete aggregate 19mm,Aggregates,Coast Builders,Durban,R,825.0,m³,1,2026-10-05,m³,m3,825.0,m3
+PLB040,PVC pipe 110mm,Plumbing,BuildMart Durban,Durban,R,145.0,each,1,2026-10-02,each,each,145.0,each
+PLB040,PVC pipe 110mm,Plumbing,KZN Hardware,Pietermaritzburg,R,152.0,unit,1,2026-10-04,unit,each,152.0,each
+PLB040,PVC pipe 110mm,Plumbing,Coast Builders,Durban,R,139.5,each,1,2026-10-06,each,each,139.5,each
+ELC050,Electrical cable 2.5mm,Electrical,BuildMart Durban,Durban,R,8.5,metre,1,2026-10-01,metre,m,8.5,m
+ELC050,Electrical cable 2.5mm,Electrical,KZN Hardware,Pietermaritzburg,R,9.1,m,1,2026-10-03,m,m,9.1,m
+ELC050,Electrical cable 2.5mm,Electrical,Coast Builders,Durban,R,8.2,meter,1,2026-10-05,meter,m,8.2,m
